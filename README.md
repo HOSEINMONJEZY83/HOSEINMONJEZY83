@@ -12,7 +12,7 @@
 <!--<a href="#" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/LinkedIn-Icon-Logo.wine.svg" alt="h.monjezy83" height="50" width="50" /></a>-->
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 <p>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
