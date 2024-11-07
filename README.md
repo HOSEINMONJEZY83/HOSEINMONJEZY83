@@ -5,14 +5,14 @@
 
 - 📫 How to reach me **HOSEINMONJEZY1383@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://instagram.com/h.monjezy83" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/instagram.svg" alt="h.monjezy83" height="50" width="50" /></a>
 <a href="https://t.me/H_MONJEZY83" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/telegram-svgrepo-com.svg" alt="h.monjezy83" height="50" width="50" /></a>
 <!--<a href="#" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/LinkedIn-Icon-Logo.wine.svg" alt="h.monjezy83" height="50" width="50" /></a>-->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
