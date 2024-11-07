@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://instagram.com/h.monjezy83" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/instagram.svg" alt="h.monjezy83" height="50" width="50" /></a>
 <a href="https://t.me/H_MONJEZY83" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/telegram-svgrepo-com.svg" alt="h.monjezy83" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/LinkedIn-Icon-Logo.wine.svg" alt="h.monjezy83" height="50" width="50" /></a>
+<!--<a href="#" target="blank"><img align="center" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/LinkedIn-Icon-Logo.wine.svg" alt="h.monjezy83" height="50" width="50" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
