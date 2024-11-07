@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys 👋 welcome to my profile, I'm HOSEIN MONJEZY</h1>
 <h3 align="center">A full stack and machine vision developer from Kingdom of Iran</h3>
-<img align="right" alt="programmer" width="400" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/programmer.gif">
+<img align="center" alt="programmer" width="900" src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoseinmonjezy83" alt="hoseinmonjezy83" /></a> </p>
 
