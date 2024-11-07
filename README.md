@@ -33,7 +33,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
 </p>
 <p align="right">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/opencv-icon.svg" alt="opencv" width="70" height="70"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/opencv.svg" alt="opencv" width="70" height="70"/> </a>
 </p>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/javascript-original.svg" alt="javascript" width="70" height="70"/> </a>
@@ -45,7 +45,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/linux-original.svg" alt="linux" width="70" height="70"/> </a>
 </p>
 <p align="right">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/git.svg" alt="git" width="70" height="70"/> </a>
 </p>
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/crime-hacker-icon.svg" alt="cyber" width="70" height="70"/> </a>
