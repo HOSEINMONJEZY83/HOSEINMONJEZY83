@@ -15,40 +15,40 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
 </p>
 <p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a>
 </p>
 <p align="right">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a>
 </p>
 <p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/python-original.svg" alt="python" width="70" height="70"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/python-original.svg" alt="python" width="75" height="75"/> </a>
 </p>
 <p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/django.svg" alt="django" width="70" height="70"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/django.svg" alt="django" width="75" height="75"/> </a>
 </p>
 <p align="center">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a>
 </p>
 <p align="right">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/opencv.svg" alt="opencv" width="70" height="70"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/opencv.svg" alt="opencv" width="75" height="75"/> </a>
 </p>
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/javascript-original.svg" alt="javascript" width="70" height="70"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
 </p>
 <p align="left">
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/jquery-1.svg" alt="jquery" width="70" height="70"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/jquery-1.svg" alt="jquery" width="75" height="75"/> </a>
 </p>
 <p align="center">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/linux-original.svg" alt="linux" width="70" height="70"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/linux-original.svg" alt="linux" width="75" height="75"/> </a>
 </p>
 <p align="right">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/git.svg" alt="git" width="70" height="70"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/git.svg" alt="git" width="75" height="75"/> </a>
 </p>
 <p align="center">
-<a href="https://sans.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/crime-hacker-icon.svg" alt="cyber" width="70" height="70"/> </a>
+<a href="https://sans.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/crime-hacker-icon.svg" alt="cyber" width="75" height="75"/> </a>
 </p>
 </p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinmonjezy83&show_icons=true&locale=en&layout=compact" alt="hoseinmonjezy83" /></p>
