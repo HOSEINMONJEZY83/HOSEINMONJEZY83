@@ -51,6 +51,6 @@
 <a href="https://sans.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/HOSEINMONJEZY83/HOSEINMONJEZY83/blob/main/crime-hacker-icon.svg" alt="cyber" width="80" height="80"/> </a>
 </p>
 </p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinmonjezy83&show_icons=true&locale=en&layout=compact" alt="hoseinmonjezy83" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseinmonjezy83&show_icons=true&locale=en&layout=compact" alt="hoseinmonjezy83" width="50% /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoseinmonjezy83&show_icons=true&locale=en" alt="hoseinmonjezy83" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoseinmonjezy83&show_icons=true&locale=en" alt="hoseinmonjezy83" width="50%"/></p>
