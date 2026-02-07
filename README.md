@@ -9,20 +9,25 @@
 💬 Ask me about backend development with Django, building REST APIs, and managing databases with MySQL.
 
 ## Contact Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h.monjezy83)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/H_MONJEZY83)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:HOSEINMONJEZY1383@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/h.monjezy83)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=black)](https://t.me/H_MONJEZY83)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=black)](mailto:HOSEINMONJEZY1383@gmail.com)
 
 ## Language And Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=fff)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=green&labelColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=black)
 
 ## GitHub Stats:
 <div align="center">
