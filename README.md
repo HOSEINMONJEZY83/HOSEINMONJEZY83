@@ -14,8 +14,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=black)](mailto:HOSEINMONJEZY1383@gmail.com)
 
 ## Language And Tools:
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=black)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=green&labelColor=black)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=black)
